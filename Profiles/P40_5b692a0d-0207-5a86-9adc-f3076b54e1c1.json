@@ -1,0 +1,93 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 40,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 27,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 35,
+      "Sensitivity": 66,
+      "Strength": 9,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 28,
+      "Sensitivity": 70,
+      "Strength": 29,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 35,
+      "Sensitivity": 50,
+      "Strength": 15,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 27,
+      "Sensitivity": 65,
+      "Strength": 30,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 36,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "5b692a0d-0207-5a86-9adc-f3076b54e1c1",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Copa Truck / Racing Trucks",
+  "tags": {
+    "carModels": [
+      "Iveco Stralis",
+      "MAN TGX",
+      "Mercedes-Benz Actros",
+      "Volkswagen Constellation",
+      "Vulkan Truck"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

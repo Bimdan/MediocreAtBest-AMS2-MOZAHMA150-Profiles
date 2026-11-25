@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Keep packaged text bytes reproducible on every platform, including Windows.
+* text=auto eol=lf
+*.csv text eol=crlf
+*.zip binary
+*.db binary

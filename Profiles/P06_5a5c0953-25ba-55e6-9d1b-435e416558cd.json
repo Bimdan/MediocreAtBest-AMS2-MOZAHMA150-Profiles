@@ -1,0 +1,126 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 10,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 10,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 36,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 19,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 22,
+      "Sensitivity": 66,
+      "Strength": 5,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 20,
+      "Sensitivity": 70,
+      "Strength": 20,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 26,
+      "Sensitivity": 50,
+      "Strength": 20,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 15,
+      "Sensitivity": 65,
+      "Strength": 12,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 32,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "5a5c0953-25ba-55e6-9d1b-435e416558cd",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Formula HiTech / Formula V12 / Formula Edge 1992-95",
+  "tags": {
+    "carModels": [
+      "Formula Edge Model1",
+      "Formula Edge Model1 - High Downforce",
+      "Formula Edge Model1 - Low Downforce",
+      "Formula Edge Model2",
+      "Formula Edge Model2 - High Downforce",
+      "Formula Edge Model2 - Low Downforce",
+      "Formula Edge Model3",
+      "Formula Edge Model3 - High Downforce",
+      "Formula Edge Model3 - Low Downforce",
+      "Formula HiTech Gen1 Model1",
+      "Formula HiTech Gen1 Model1 - High Downforce",
+      "Formula HiTech Gen1 Model1 - Low Downforce",
+      "Formula HiTech Gen1 Model2",
+      "Formula HiTech Gen1 Model2 - High Downforce",
+      "Formula HiTech Gen1 Model2 - Low Downforce",
+      "Formula HiTech Gen1 Model3",
+      "Formula HiTech Gen1 Model3 - High Downforce",
+      "Formula HiTech Gen1 Model3 - Low Downforce",
+      "Formula HiTech Gen1 Model4",
+      "Formula HiTech Gen1 Model4 - High Downforce",
+      "Formula HiTech Gen1 Model4 - Low Downforce",
+      "Formula HiTech Gen2 Model1",
+      "Formula HiTech Gen2 Model1 - High Downforce",
+      "Formula HiTech Gen2 Model1 - Low Downforce",
+      "Formula HiTech Gen2 Model2",
+      "Formula HiTech Gen2 Model2 - High Downforce",
+      "Formula HiTech Gen2 Model2 - Low Downforce",
+      "Formula HiTech Gen2 Model3",
+      "Formula HiTech Gen2 Model3 - High Downforce",
+      "Formula HiTech Gen2 Model3 - Low Downforce",
+      "Formula V12",
+      "Formula V12 - Low Downforce",
+      "McLaren Cosworth MP4/8",
+      "McLaren Cosworth MP4/8 - High Downforce",
+      "McLaren Cosworth MP4/8 - Low Downforce",
+      "McLaren Honda MP4/7A",
+      "McLaren Honda MP4/7A - High Downforce",
+      "McLaren Honda MP4/7A - Low Downforce"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

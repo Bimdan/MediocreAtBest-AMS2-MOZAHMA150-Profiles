@@ -1,0 +1,94 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 36,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 25,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 30,
+      "Sensitivity": 66,
+      "Strength": 7,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 25,
+      "Sensitivity": 70,
+      "Strength": 25,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 35,
+      "Sensitivity": 50,
+      "Strength": 17,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 22,
+      "Sensitivity": 65,
+      "Strength": 24,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 34,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "b4ca64ea-7267-520c-94a8-ff8e668e862b",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Formula Vintage / F1 1967-70",
+  "tags": {
+    "carModels": [
+      "Formula Vintage Gen1 Model1",
+      "Formula Vintage Gen1 Model2",
+      "Formula Vintage Gen2 Model1",
+      "Formula Vintage Gen2 Model2",
+      "Formula Vintage Gen2 Model3",
+      "Formula Vintage Gen2 Model4"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

@@ -1,0 +1,105 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 14,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 14,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 40,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 25,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 30,
+      "Sensitivity": 66,
+      "Strength": 8,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 28,
+      "Sensitivity": 70,
+      "Strength": 29,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 35,
+      "Sensitivity": 50,
+      "Strength": 14,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 27,
+      "Sensitivity": 65,
+      "Strength": 30,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 35,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "e7cb4e91-c2b1-5ea2-8be0-2bc9579021bf",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Copa Classic / Hot Cars / Vintage Touring 60s (TC60S)",
+  "tags": {
+    "carModels": [
+      "BMW 2002 Turbo",
+      "Chevrolet Chevette",
+      "Chevrolet Corvette C3",
+      "Fusca 1 Hot Cars",
+      "Fusca 2 Hot Cars",
+      "Fusca Classic FL",
+      "Gol Classic B",
+      "Gol Classic FL",
+      "Gol Hot Cars",
+      "MINI Cooper S 1965",
+      "MINI Cooper S 1965 B",
+      "Passat Classic B",
+      "Passat Classic FL",
+      "Passat Hot Cars",
+      "Puma GTB",
+      "Puma GTE",
+      "Uno Classic B"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

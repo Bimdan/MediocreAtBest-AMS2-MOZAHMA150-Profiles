@@ -1,0 +1,93 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 38,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 24,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 28,
+      "Sensitivity": 66,
+      "Strength": 6,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 24,
+      "Sensitivity": 70,
+      "Strength": 23,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 32,
+      "Sensitivity": 50,
+      "Strength": 18,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 22,
+      "Sensitivity": 65,
+      "Strength": 22,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 35,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "b7aee1bb-6be9-5667-bac6-04979d1b59a8",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Formula Retro Gen 1 / F1 1974",
+  "tags": {
+    "carModels": [
+      "Formula Retro Gen1 Model1",
+      "Formula Retro Gen1 Model2",
+      "Formula Retro Gen1 Model3",
+      "Formula Retro Gen1 Model4",
+      "McLaren M23"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

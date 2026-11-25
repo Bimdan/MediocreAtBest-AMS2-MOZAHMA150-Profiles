@@ -1,0 +1,94 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 10,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 10,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 25,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 14,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 20,
+      "Sensitivity": 66,
+      "Strength": 5,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 20,
+      "Sensitivity": 70,
+      "Strength": 20,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 25,
+      "Sensitivity": 50,
+      "Strength": 21,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 15,
+      "Sensitivity": 65,
+      "Strength": 10,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 28,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "7ee66e47-c04f-51bc-a399-4a309703e6ba",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Formula Ultimate / Formula Hybrid 2014-19",
+  "tags": {
+    "carModels": [
+      "Formula Ultimate Hybrid Gen1",
+      "Formula Ultimate Hybrid Gen1 - High Downforce",
+      "Formula Ultimate Hybrid Gen1 - Low Downforce",
+      "Formula Ultimate Hybrid Gen2",
+      "Formula Ultimate Hybrid Gen2 - High Downforce",
+      "Formula Ultimate Hybrid Gen2 - Low Downforce"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

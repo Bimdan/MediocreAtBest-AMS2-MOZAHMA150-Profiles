@@ -1,0 +1,115 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 10,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 10,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 33,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 17,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 20,
+      "Sensitivity": 66,
+      "Strength": 5,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 20,
+      "Sensitivity": 70,
+      "Strength": 20,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 25,
+      "Sensitivity": 50,
+      "Strength": 21,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 15,
+      "Sensitivity": 65,
+      "Strength": 10,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 29,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "b98012d5-2118-5db3-a21b-6ce5d8f4fe34",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Formula V10 / F1 1997-2005",
+  "tags": {
+    "carModels": [
+      "Formula V10 Gen1",
+      "Formula V10 Gen1 - High Downforce",
+      "Formula V10 Gen1 - Low Downforce",
+      "Formula V10 Gen2 (B)",
+      "Formula V10 Gen2 (B) - High Downforce",
+      "Formula V10 Gen2 (B) - Low Downforce",
+      "Formula V10 Gen2 (M)",
+      "Formula V10 Gen2 (M) - High Downforce",
+      "Formula V10 Gen2 (M) - Low Downforce",
+      "Formula V10 Gen3 Model1 (B)",
+      "Formula V10 Gen3 Model1 (B) - High Downforce",
+      "Formula V10 Gen3 Model1 (B) - Low Downforce",
+      "Formula V10 Gen3 Model1 (M)",
+      "Formula V10 Gen3 Model1 (M) - High Downforce",
+      "Formula V10 Gen3 Model1 (M) - Low Downforce",
+      "Formula V10 Gen3 Model2",
+      "Formula V10 Gen3 Model2 - High Downforce",
+      "Formula V10 Gen3 Model2 - Low Downforce",
+      "McLaren MP4/16",
+      "McLaren MP4/16 - High Downforce",
+      "McLaren MP4/16 - Low Downforce",
+      "McLaren MP4/20",
+      "McLaren MP4/20 - High Downforce",
+      "McLaren MP4/20 - Low Downforce",
+      "McLaren Mercedes MP4/12",
+      "McLaren Mercedes MP4/12 - High Downforce",
+      "McLaren Mercedes MP4/12 - Low Downforce"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

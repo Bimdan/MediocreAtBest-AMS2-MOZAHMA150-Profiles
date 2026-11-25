@@ -1,0 +1,125 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": true
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 29,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 19,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 20,
+      "Sensitivity": 66,
+      "Strength": 5,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 22,
+      "Sensitivity": 70,
+      "Strength": 23,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 20,
+      "Sensitivity": 50,
+      "Strength": 18,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 18,
+      "Sensitivity": 65,
+      "Strength": 17,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": true
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 32,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "2db9cd3a-6fd1-5c6c-8fc5-166786fb8a38",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - GT3 / GT Open",
+  "tags": {
+    "carModels": [
+      "Aston Martin V12 Vantage GT3",
+      "Aston Martin Vantage GT3",
+      "Aston Martin Vantage GT3 Evo",
+      "Aston Martin Vantage GT3 Evo - Low Downforce",
+      "Audi R8 LMS",
+      "Audi R8 LMS GT3",
+      "Audi R8 LMS GT3 evo II",
+      "Audi R8 LMS GT3 evo II - Low Downforce",
+      "BMW M4 GT3",
+      "BMW M4 GT3 - Low Downforce",
+      "BMW M6 GT3",
+      "BMW Z4 GT3",
+      "Bentley Continental GT3",
+      "Cadillac ATS-V.R GT3",
+      "Chevrolet Corvette Z06 GT3.R",
+      "Chevrolet Corvette Z06 GT3.R - Low Downforce",
+      "Ferrari 488 GT3",
+      "Ford Mustang GT3",
+      "Ginetta G55 GT3",
+      "Honda NSX GT3",
+      "Lamborghini Huracan GT3",
+      "Lamborghini Huracan GT3 EVO2",
+      "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+      "LamborghiniHuracanGT3",
+      "McLaren 650S GT3",
+      "McLaren 720S GT3",
+      "McLaren 720S GT3 Evo",
+      "McLaren 720S GT3 Evo - Low Downforce",
+      "Mercedes-AMG GT3",
+      "Mercedes-AMG GT3 Evo",
+      "Mercedes-AMG GT3 Evo - Low Downforce",
+      "Nissan GT-R Nismo GT3",
+      "Nissan GT-R Nismo GT3 (R35)",
+      "Porsche 911 GT3 R",
+      "Porsche 911 GT3R",
+      "Porsche 992 GT3 R",
+      "Porsche 992 GT3 R - Low Downforce"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

@@ -1,0 +1,2106 @@
+{
+  "format": 1,
+  "gameId": "15",
+  "rows": [
+    {
+      "telemetryName": "Alpine A110 GT4 Evo",
+      "name": "Alpine A110 GT4 Evo",
+      "category": "GT4"
+    },
+    {
+      "telemetryName": "Alpine A424",
+      "name": "Alpine A424",
+      "category": "LMDh"
+    },
+    {
+      "telemetryName": "Alpine A424 - Low Downforce",
+      "name": "Alpine A424 - Low Downforce",
+      "category": "LMDh_LD"
+    },
+    {
+      "telemetryName": "Aston Martin DBR9",
+      "name": "Aston Martin DBR9",
+      "category": "GT1_05"
+    },
+    {
+      "telemetryName": "Aston Martin DBR9 - Low Downforce",
+      "name": "Aston Martin DBR9 - Low Downforce",
+      "category": "GT1_05_LD"
+    },
+    {
+      "telemetryName": "Aston Martin V12 Vantage GT3",
+      "name": "Aston Martin V12 Vantage GT3",
+      "category": "GT3_Bath12h"
+    },
+    {
+      "telemetryName": "Aston Martin Valkyrie",
+      "name": "Aston Martin Valkyrie",
+      "category": "Hypercars"
+    },
+    {
+      "telemetryName": "Aston Martin Valkyrie Hypercar",
+      "name": "Aston Martin Valkyrie Hypercar",
+      "category": "LMDh"
+    },
+    {
+      "telemetryName": "Aston Martin Valkyrie Hypercar - Low Downforce",
+      "name": "Aston Martin Valkyrie Hypercar - Low Downforce",
+      "category": "LMDh_LD"
+    },
+    {
+      "telemetryName": "Aston Martin Vantage GT3",
+      "name": "Aston Martin Vantage GT3",
+      "category": "GT3N"
+    },
+    {
+      "telemetryName": "Aston Martin Vantage GT3 Evo",
+      "name": "Aston Martin Vantage GT3 Evo",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "Aston Martin Vantage GT3 Evo - Low Downforce",
+      "name": "Aston Martin Vantage GT3 Evo - Low Downforce",
+      "category": "GT3_Gen2_LD"
+    },
+    {
+      "telemetryName": "Aston Martin Vantage GT4",
+      "name": "Aston Martin Vantage GT4",
+      "category": "GT4N"
+    },
+    {
+      "telemetryName": "Aston Martin Vantage GT4 Evo",
+      "name": "Aston Martin Vantage GT4 Evo",
+      "category": "GT4"
+    },
+    {
+      "telemetryName": "Aston Martin Vantage GTE",
+      "name": "Aston Martin Vantage GTE",
+      "category": "GTE"
+    },
+    {
+      "telemetryName": "Aston Martin Vantage GTE - Low Downforce",
+      "name": "Aston Martin Vantage GTE - Low Downforce",
+      "category": "GTE_LD"
+    },
+    {
+      "telemetryName": "Audi A4 DTM",
+      "name": "Audi A4 DTM",
+      "category": "Group A"
+    },
+    {
+      "telemetryName": "Audi A4 TC",
+      "name": "Audi A4 TC",
+      "category": "Group A"
+    },
+    {
+      "telemetryName": "Audi R8 LMP1",
+      "name": "Audi R8 LMP1",
+      "category": "LMP1_05"
+    },
+    {
+      "telemetryName": "Audi R8 LMP1 - Low Downforce",
+      "name": "Audi R8 LMP1 - Low Downforce",
+      "category": "LMP1_05_LD"
+    },
+    {
+      "telemetryName": "Audi R8 LMS",
+      "name": "Audi R8 LMS",
+      "category": "GT3_Bath12h"
+    },
+    {
+      "telemetryName": "Audi R8 LMS GT3 evo II",
+      "name": "Audi R8 LMS GT3 evo II",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "Audi R8 LMS GT3 evo II - Low Downforce",
+      "name": "Audi R8 LMS GT3 evo II - Low Downforce",
+      "category": "GT3_Gen2_LD"
+    },
+    {
+      "telemetryName": "Audi R8 V10 GT",
+      "name": "Audi R8 V10 GT",
+      "category": "Supercars"
+    },
+    {
+      "telemetryName": "BMW 2002 Safety Car",
+      "name": "BMW 2002 Safety Car",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "BMW 318i TC",
+      "name": "BMW 318i TC",
+      "category": "Group A"
+    },
+    {
+      "telemetryName": "BMW 320",
+      "name": "BMW 320",
+      "category": "Group 5"
+    },
+    {
+      "telemetryName": "BMW M Hybrid V8",
+      "name": "BMW M Hybrid V8",
+      "category": "LMDh"
+    },
+    {
+      "telemetryName": "BMW M Hybrid V8 - Low Downforce",
+      "name": "BMW M Hybrid V8 - Low Downforce",
+      "category": "LMDh_LD"
+    },
+    {
+      "telemetryName": "BMW M3 E46 GTR",
+      "name": "BMW M3 E46 GTR",
+      "category": "GTR_04"
+    },
+    {
+      "telemetryName": "BMW M3 E46 GTR - Low Downforce",
+      "name": "BMW M3 E46 GTR - Low Downforce",
+      "category": "GTR_04_LD"
+    },
+    {
+      "telemetryName": "BMW M3 Safety Car",
+      "name": "BMW M3 Safety Car",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "BMW M4 GT3",
+      "name": "BMW M4 GT3",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "BMW M4 GT3 - Low Downforce",
+      "name": "BMW M4 GT3 - Low Downforce",
+      "category": "GT3_Gen2_LD"
+    },
+    {
+      "telemetryName": "BMW M4 SC",
+      "name": "BMW M4 SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "BMW M8 GTE",
+      "name": "BMW M8 GTE",
+      "category": "GTE"
+    },
+    {
+      "telemetryName": "BMW M8 GTE - Low Downforce",
+      "name": "BMW M8 GTE - Low Downforce",
+      "category": "GTE_LD"
+    },
+    {
+      "telemetryName": "BMW Z4 GT3",
+      "name": "BMW Z4 GT3",
+      "category": "GT3_Bath12h"
+    },
+    {
+      "telemetryName": "Bentley Continental GT3",
+      "name": "Bentley Continental GT3",
+      "category": "GT3_Bath12h"
+    },
+    {
+      "telemetryName": "Brabham BT62",
+      "name": "Brabham BT62",
+      "category": "Hypercars"
+    },
+    {
+      "telemetryName": "Cadillac ATS-V.R GT3",
+      "name": "Cadillac ATS-V.R GT3",
+      "category": "GT3_Pwc"
+    },
+    {
+      "telemetryName": "Cadillac DPi-VR",
+      "name": "Cadillac DPi-VR",
+      "category": "DPI"
+    },
+    {
+      "telemetryName": "Cadillac V-Series.R",
+      "name": "Cadillac V-Series.R",
+      "category": "LMDh"
+    },
+    {
+      "telemetryName": "Cadillac V-Series.R - Low Downforce",
+      "name": "Cadillac V-Series.R - Low Downforce",
+      "category": "LMDh_LD"
+    },
+    {
+      "telemetryName": "Camaro SafetyCar",
+      "name": "Camaro SafetyCar",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette C5-R",
+      "name": "Chevrolet Corvette C5-R",
+      "category": "GT1_05"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette C5-R - Low Downforce",
+      "name": "Chevrolet Corvette C5-R - Low Downforce",
+      "category": "GT1_05_LD"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette C7.R",
+      "name": "Chevrolet Corvette C7.R",
+      "category": "GT3_GTM"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette C8 SC",
+      "name": "Chevrolet Corvette C8 SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette C8 Z06",
+      "name": "Chevrolet Corvette C8 Z06",
+      "category": "Supercars"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette C8 Z06 (+Z07 Upgrade)",
+      "name": "Chevrolet Corvette C8 Z06 (+Z07 Upgrade)",
+      "category": "Supercars"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette C8.R",
+      "name": "Chevrolet Corvette C8.R",
+      "category": "GTE"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette C8.R - Low Downforce",
+      "name": "Chevrolet Corvette C8.R - Low Downforce",
+      "category": "GTE_LD"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette GTP - Low Downforce",
+      "name": "Chevrolet Corvette GTP - Low Downforce",
+      "category": "Group C_LD"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette Z06 GT3.R",
+      "name": "Chevrolet Corvette Z06 GT3.R",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "Chevrolet Corvette Z06 GT3.R - Low Downforce",
+      "name": "Chevrolet Corvette Z06 GT3.R - Low Downforce",
+      "category": "GT3_Gen2_LD"
+    },
+    {
+      "telemetryName": "Citroen DS3 RX",
+      "name": "Citroen DS3 RX",
+      "category": "RX"
+    },
+    {
+      "telemetryName": "Copa Uno SC",
+      "name": "Copa Uno SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Courage C60 Hybrid",
+      "name": "Courage C60 Hybrid",
+      "category": "LMP1_05"
+    },
+    {
+      "telemetryName": "Courage C60 Hybrid - Low Downforce",
+      "name": "Courage C60 Hybrid - Low Downforce",
+      "category": "LMP1_05_LD"
+    },
+    {
+      "telemetryName": "Dallara SP1",
+      "name": "Dallara SP1",
+      "category": "LMP1_05"
+    },
+    {
+      "telemetryName": "Dallara SP1 - Low Downforce",
+      "name": "Dallara SP1 - Low Downforce",
+      "category": "LMP1_05_LD"
+    },
+    {
+      "telemetryName": "Dodge Viper ACR",
+      "name": "Dodge Viper ACR",
+      "category": "Supercars"
+    },
+    {
+      "telemetryName": "Dodge Viper GTS-R",
+      "name": "Dodge Viper GTS-R",
+      "category": "GT1_05"
+    },
+    {
+      "telemetryName": "Dodge Viper GTS-R - Low Downforce",
+      "name": "Dodge Viper GTS-R - Low Downforce",
+      "category": "GT1_05_LD"
+    },
+    {
+      "telemetryName": "FTruck Pacecar",
+      "name": "FTruck Pacecar",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Ferrari 488 GT3",
+      "name": "Ferrari 488 GT3",
+      "category": "GT3_Blancpain"
+    },
+    {
+      "telemetryName": "Ferrari 488 GTE",
+      "name": "Ferrari 488 GTE",
+      "category": "GTE mod"
+    },
+    {
+      "telemetryName": "Ford Capri",
+      "name": "Ford Capri",
+      "category": "Group 5"
+    },
+    {
+      "telemetryName": "Ford GT LM",
+      "name": "Ford GT LM",
+      "category": "GTE mod"
+    },
+    {
+      "telemetryName": "Ford GT40 MkI",
+      "name": "Ford GT40 MkI",
+      "category": "Group 7"
+    },
+    {
+      "telemetryName": "Ford Mustang GT3",
+      "name": "Ford Mustang GT3",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "Ford Sierra Cosworth RS500 Group A",
+      "name": "Ford Sierra Cosworth RS500 Group A",
+      "category": "Group A mod"
+    },
+    {
+      "telemetryName": "Formula 2K SC",
+      "name": "Formula 2K SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Formula Classic Gen1 Model1 - High Downforce",
+      "name": "Formula Classic Gen1 Model1 - High Downforce",
+      "category": "F-Classic_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen1 Model2 - High Downforce",
+      "name": "Formula Classic Gen1 Model2 - High Downforce",
+      "category": "F-Classic_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen1 Model3",
+      "name": "Formula Classic Gen1 Model3",
+      "category": "F-Classic_Gen1"
+    },
+    {
+      "telemetryName": "Formula Classic Gen1 Model3 - High Downforce",
+      "name": "Formula Classic Gen1 Model3 - High Downforce",
+      "category": "F-Classic_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen2 Model1 - High Downforce",
+      "name": "Formula Classic Gen2 Model1 - High Downforce",
+      "category": "F-Classic_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen2 Model1 - Low Downforce",
+      "name": "Formula Classic Gen2 Model1 - Low Downforce",
+      "category": "F-Classic_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen2 Model2 - High Downforce",
+      "name": "Formula Classic Gen2 Model2 - High Downforce",
+      "category": "F-Classic_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen2 Model2 - Low Downforce",
+      "name": "Formula Classic Gen2 Model2 - Low Downforce",
+      "category": "F-Classic_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen2 Model3 - High Downforce",
+      "name": "Formula Classic Gen2 Model3 - High Downforce",
+      "category": "F-Classic_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen2 Model3 - Low Downforce",
+      "name": "Formula Classic Gen2 Model3 - Low Downforce",
+      "category": "F-Classic_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen3 Model1 - High Downforce",
+      "name": "Formula Classic Gen3 Model1 - High Downforce",
+      "category": "F-Classic_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen3 Model1 - Low Downforce",
+      "name": "Formula Classic Gen3 Model1 - Low Downforce",
+      "category": "F-Classic_Gen3_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen3 Model2 - High Downforce",
+      "name": "Formula Classic Gen3 Model2 - High Downforce",
+      "category": "F-Classic_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen3 Model2 - Low Downforce",
+      "name": "Formula Classic Gen3 Model2 - Low Downforce",
+      "category": "F-Classic_Gen3_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen3 Model3 - High Downforce",
+      "name": "Formula Classic Gen3 Model3 - High Downforce",
+      "category": "F-Classic_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen3 Model3 - Low Downforce",
+      "name": "Formula Classic Gen3 Model3 - Low Downforce",
+      "category": "F-Classic_Gen3_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen3 Model4 - High Downforce",
+      "name": "Formula Classic Gen3 Model4 - High Downforce",
+      "category": "F-Classic_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen3 Model4 - Low Downforce",
+      "name": "Formula Classic Gen3 Model4 - Low Downforce",
+      "category": "F-Classic_Gen3_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen4 Model1 - High Downforce",
+      "name": "Formula Classic Gen4 Model1 - High Downforce",
+      "category": "F-Classic_Gen4_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen4 Model1 - Low Downforce",
+      "name": "Formula Classic Gen4 Model1 - Low Downforce",
+      "category": "F-Classic_Gen4_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen4 Model2 - High Downforce",
+      "name": "Formula Classic Gen4 Model2 - High Downforce",
+      "category": "F-Classic_Gen4_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen4 Model2 - Low Downforce",
+      "name": "Formula Classic Gen4 Model2 - Low Downforce",
+      "category": "F-Classic_Gen4_LD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen4 Model3 - High Downforce",
+      "name": "Formula Classic Gen4 Model3 - High Downforce",
+      "category": "F-Classic_Gen4_HD"
+    },
+    {
+      "telemetryName": "Formula Classic Gen4 Model3 - Low Downforce",
+      "name": "Formula Classic Gen4 Model3 - Low Downforce",
+      "category": "F-Classic_Gen4_LD"
+    },
+    {
+      "telemetryName": "Formula Dirt",
+      "name": "Formula Dirt",
+      "category": "F-Dirt"
+    },
+    {
+      "telemetryName": "Formula Edge Model1",
+      "name": "Formula Edge Model1",
+      "category": "FE-G1"
+    },
+    {
+      "telemetryName": "Formula Edge Model1 - High Downforce",
+      "name": "Formula Edge Model1 - High Downforce",
+      "category": "FE-G1_HD"
+    },
+    {
+      "telemetryName": "Formula Edge Model1 - Low Downforce",
+      "name": "Formula Edge Model1 - Low Downforce",
+      "category": "FE-G1_LD"
+    },
+    {
+      "telemetryName": "Formula Edge Model2",
+      "name": "Formula Edge Model2",
+      "category": "FE-G1"
+    },
+    {
+      "telemetryName": "Formula Edge Model2 - High Downforce",
+      "name": "Formula Edge Model2 - High Downforce",
+      "category": "FE-G1_HD"
+    },
+    {
+      "telemetryName": "Formula Edge Model2 - Low Downforce",
+      "name": "Formula Edge Model2 - Low Downforce",
+      "category": "FE-G1_LD"
+    },
+    {
+      "telemetryName": "Formula Edge Model3",
+      "name": "Formula Edge Model3",
+      "category": "FE-G1"
+    },
+    {
+      "telemetryName": "Formula Edge Model3 - High Downforce",
+      "name": "Formula Edge Model3 - High Downforce",
+      "category": "FE-G1_HD"
+    },
+    {
+      "telemetryName": "Formula Edge Model3 - Low Downforce",
+      "name": "Formula Edge Model3 - Low Downforce",
+      "category": "FE-G1_LD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model1",
+      "name": "Formula HiTech Gen1 Model1",
+      "category": "F-Hitech_Gen1"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model1 - High Downforce",
+      "name": "Formula HiTech Gen1 Model1 - High Downforce",
+      "category": "F-Hitech_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model1 - Low Downforce",
+      "name": "Formula HiTech Gen1 Model1 - Low Downforce",
+      "category": "F-Hitech_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model2",
+      "name": "Formula HiTech Gen1 Model2",
+      "category": "F-Hitech_Gen1"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model2 - High Downforce",
+      "name": "Formula HiTech Gen1 Model2 - High Downforce",
+      "category": "F-Hitech_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model2 - Low Downforce",
+      "name": "Formula HiTech Gen1 Model2 - Low Downforce",
+      "category": "F-Hitech_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model3",
+      "name": "Formula HiTech Gen1 Model3",
+      "category": "F-Hitech_Gen1"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model3 - High Downforce",
+      "name": "Formula HiTech Gen1 Model3 - High Downforce",
+      "category": "F-Hitech_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model3 - Low Downforce",
+      "name": "Formula HiTech Gen1 Model3 - Low Downforce",
+      "category": "F-Hitech_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model4",
+      "name": "Formula HiTech Gen1 Model4",
+      "category": "F-Hitech_Gen1"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model4 - High Downforce",
+      "name": "Formula HiTech Gen1 Model4 - High Downforce",
+      "category": "F-Hitech_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen1 Model4 - Low Downforce",
+      "name": "Formula HiTech Gen1 Model4 - Low Downforce",
+      "category": "F-Hitech_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model1",
+      "name": "Formula HiTech Gen2 Model1",
+      "category": "F-Hitech_Gen2"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model1 - High Downforce",
+      "name": "Formula HiTech Gen2 Model1 - High Downforce",
+      "category": "F-Hitech_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model1 - Low Downforce",
+      "name": "Formula HiTech Gen2 Model1 - Low Downforce",
+      "category": "F-Hitech_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model2",
+      "name": "Formula HiTech Gen2 Model2",
+      "category": "F-Hitech_Gen2"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model2 - High Downforce",
+      "name": "Formula HiTech Gen2 Model2 - High Downforce",
+      "category": "F-Hitech_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model2 - Low Downforce",
+      "name": "Formula HiTech Gen2 Model2 - Low Downforce",
+      "category": "F-Hitech_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model3",
+      "name": "Formula HiTech Gen2 Model3",
+      "category": "F-Hitech_Gen2"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model3 - High Downforce",
+      "name": "Formula HiTech Gen2 Model3 - High Downforce",
+      "category": "F-Hitech_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula HiTech Gen2 Model3 - Low Downforce",
+      "name": "Formula HiTech Gen2 Model3 - Low Downforce",
+      "category": "F-Hitech_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula Retro Gen1 Model1",
+      "name": "Formula Retro Gen1 Model1",
+      "category": "F-Retro_Gen1"
+    },
+    {
+      "telemetryName": "Formula Retro Gen1 Model2",
+      "name": "Formula Retro Gen1 Model2",
+      "category": "F-Retro_Gen1"
+    },
+    {
+      "telemetryName": "Formula Retro Gen1 Model3",
+      "name": "Formula Retro Gen1 Model3",
+      "category": "F-Retro_Gen1"
+    },
+    {
+      "telemetryName": "Formula Retro Gen1 Model4",
+      "name": "Formula Retro Gen1 Model4",
+      "category": "F-Retro_Gen1"
+    },
+    {
+      "telemetryName": "Formula Retro Gen2 Model1",
+      "name": "Formula Retro Gen2 Model1",
+      "category": "F-Retro_Gen2"
+    },
+    {
+      "telemetryName": "Formula Retro Gen2 Model2",
+      "name": "Formula Retro Gen2 Model2",
+      "category": "F-Retro_Gen2"
+    },
+    {
+      "telemetryName": "Formula Retro Gen2 Model3",
+      "name": "Formula Retro Gen2 Model3",
+      "category": "F-Retro_Gen2"
+    },
+    {
+      "telemetryName": "Formula Retro Gen2 Model4",
+      "name": "Formula Retro Gen2 Model4",
+      "category": "F-Retro_Gen2"
+    },
+    {
+      "telemetryName": "Formula Retro Gen3 DFY - High Downforce",
+      "name": "Formula Retro Gen3 DFY - High Downforce",
+      "category": "F-Retro_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula Retro Gen3 Model2",
+      "name": "Formula Retro Gen3 Model2",
+      "category": "F-Retro_Gen3"
+    },
+    {
+      "telemetryName": "Formula Retro Gen3 Model2 - High Downforce",
+      "name": "Formula Retro Gen3 Model2 - High Downforce",
+      "category": "F-Retro_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula Retro Gen3 Turbo - High Downforce",
+      "name": "Formula Retro Gen3 Turbo - High Downforce",
+      "category": "F-Retro_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula Rookie",
+      "name": "Formula Rookie",
+      "category": "F5"
+    },
+    {
+      "telemetryName": "Formula USA 2022",
+      "name": "Formula USA 2022",
+      "category": "F-USA_2022"
+    },
+    {
+      "telemetryName": "Formula USA 2022 - Short Oval",
+      "name": "Formula USA 2022 - Short Oval",
+      "category": "F-USA_2022_SO"
+    },
+    {
+      "telemetryName": "Formula USA 2022 - Speedway",
+      "name": "Formula USA 2022 - Speedway",
+      "category": "F-USA_2022_SW"
+    },
+    {
+      "telemetryName": "Formula USA 2023",
+      "name": "Formula USA 2023",
+      "category": "F-USA_2023"
+    },
+    {
+      "telemetryName": "Formula USA 2023 - High Downforce",
+      "name": "Formula USA 2023 - High Downforce",
+      "category": "F-USA_2023_HD"
+    },
+    {
+      "telemetryName": "Formula USA 2023 - Short Oval",
+      "name": "Formula USA 2023 - Short Oval",
+      "category": "F-USA_2023_SO"
+    },
+    {
+      "telemetryName": "Formula USA 2023 - Speedway",
+      "name": "Formula USA 2023 - Speedway",
+      "category": "F-USA_2023_SW"
+    },
+    {
+      "telemetryName": "Formula Ultimate Gen2 - Low Downforce",
+      "name": "Formula Ultimate Gen2 - Low Downforce",
+      "category": "F-Ultimate_Gen2_LD_RET"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen1",
+      "name": "Formula Ultimate Hybrid Gen1",
+      "category": "F-Ultimate_Gen1"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen1 - High Downforce",
+      "name": "Formula Ultimate Hybrid Gen1 - High Downforce",
+      "category": "F-Ultimate_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen1 - Low Downforce",
+      "name": "Formula Ultimate Hybrid Gen1 - Low Downforce",
+      "category": "F-Ultimate_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen2",
+      "name": "Formula Ultimate Hybrid Gen2",
+      "category": "F-Ultimate"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen2 - High Downforce",
+      "name": "Formula Ultimate Hybrid Gen2 - High Downforce",
+      "category": "F-Ultimate_HD"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen2 - Low Downforce",
+      "name": "Formula Ultimate Hybrid Gen2 - Low Downforce",
+      "category": "F-Ultimate_LD"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen3",
+      "name": "Formula Ultimate Hybrid Gen3",
+      "category": "F-Ultimate_Gen2"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen3 - High Downforce",
+      "name": "Formula Ultimate Hybrid Gen3 - High Downforce",
+      "category": "F-Ultimate_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula Ultimate Hybrid Gen3 - Low Downforce",
+      "name": "Formula Ultimate Hybrid Gen3 - Low Downforce",
+      "category": "F-Ultimate_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen1 - High Downforce",
+      "name": "Formula V10 Gen1 - High Downforce",
+      "category": "F-V10_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen1 - Low Downforce",
+      "name": "Formula V10 Gen1 - Low Downforce",
+      "category": "F-V10_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen2 (B)",
+      "name": "Formula V10 Gen2 (B)",
+      "category": "F-V10_Gen2"
+    },
+    {
+      "telemetryName": "Formula V10 Gen2 (B) - High Downforce",
+      "name": "Formula V10 Gen2 (B) - High Downforce",
+      "category": "F-V10_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen2 (B) - Low Downforce",
+      "name": "Formula V10 Gen2 (B) - Low Downforce",
+      "category": "F-V10_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen2 (M)",
+      "name": "Formula V10 Gen2 (M)",
+      "category": "F-V10_Gen2"
+    },
+    {
+      "telemetryName": "Formula V10 Gen2 (M) - High Downforce",
+      "name": "Formula V10 Gen2 (M) - High Downforce",
+      "category": "F-V10_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen2 (M) - Low Downforce",
+      "name": "Formula V10 Gen2 (M) - Low Downforce",
+      "category": "F-V10_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model1 (B)",
+      "name": "Formula V10 Gen3 Model1 (B)",
+      "category": "F-V10_Gen3"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model1 (B) - High Downforce",
+      "name": "Formula V10 Gen3 Model1 (B) - High Downforce",
+      "category": "F-V10_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model1 (B) - Low Downforce",
+      "name": "Formula V10 Gen3 Model1 (B) - Low Downforce",
+      "category": "F-V10_Gen3_LD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model1 (M)",
+      "name": "Formula V10 Gen3 Model1 (M)",
+      "category": "F-V10_Gen3"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model1 (M) - High Downforce",
+      "name": "Formula V10 Gen3 Model1 (M) - High Downforce",
+      "category": "F-V10_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model1 (M) - Low Downforce",
+      "name": "Formula V10 Gen3 Model1 (M) - Low Downforce",
+      "category": "F-V10_Gen3_LD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model2",
+      "name": "Formula V10 Gen3 Model2",
+      "category": "F-V10_Gen3"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model2 - High Downforce",
+      "name": "Formula V10 Gen3 Model2 - High Downforce",
+      "category": "F-V10_Gen3_HD"
+    },
+    {
+      "telemetryName": "Formula V10 Gen3 Model2 - Low Downforce",
+      "name": "Formula V10 Gen3 Model2 - Low Downforce",
+      "category": "F-V10_Gen3_LD"
+    },
+    {
+      "telemetryName": "Formula V12 - Low Downforce",
+      "name": "Formula V12 - Low Downforce",
+      "category": "F-V12_LD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model1 (B)",
+      "name": "Formula V8 Gen1 Model1 (B)",
+      "category": "F-V8_Gen1"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model1 (B) - High Downforce",
+      "name": "Formula V8 Gen1 Model1 (B) - High Downforce",
+      "category": "F-V8_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model1 (B) - Low Downforce",
+      "name": "Formula V8 Gen1 Model1 (B) - Low Downforce",
+      "category": "F-V8_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model1 (M)",
+      "name": "Formula V8 Gen1 Model1 (M)",
+      "category": "F-V8_Gen1"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model1 (M) - High Downforce",
+      "name": "Formula V8 Gen1 Model1 (M) - High Downforce",
+      "category": "F-V8_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model1 (M) - Low Downforce",
+      "name": "Formula V8 Gen1 Model1 (M) - Low Downforce",
+      "category": "F-V8_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model2",
+      "name": "Formula V8 Gen1 Model2",
+      "category": "F-V8_Gen1"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model2 - High Downforce",
+      "name": "Formula V8 Gen1 Model2 - High Downforce",
+      "category": "F-V8_Gen1_HD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen1 Model2 - Low Downforce",
+      "name": "Formula V8 Gen1 Model2 - Low Downforce",
+      "category": "F-V8_Gen1_LD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen2 Model1",
+      "name": "Formula V8 Gen2 Model1",
+      "category": "F-V8_Gen2"
+    },
+    {
+      "telemetryName": "Formula V8 Gen2 Model1 - High Downforce",
+      "name": "Formula V8 Gen2 Model1 - High Downforce",
+      "category": "F-V8_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen2 Model1 - Low Downforce",
+      "name": "Formula V8 Gen2 Model1 - Low Downforce",
+      "category": "F-V8_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen2 Model2",
+      "name": "Formula V8 Gen2 Model2",
+      "category": "F-V8_Gen2"
+    },
+    {
+      "telemetryName": "Formula V8 Gen2 Model2 - High Downforce",
+      "name": "Formula V8 Gen2 Model2 - High Downforce",
+      "category": "F-V8_Gen2_HD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen2 Model2 - Low Downforce",
+      "name": "Formula V8 Gen2 Model2 - Low Downforce",
+      "category": "F-V8_Gen2_LD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen3",
+      "name": "Formula V8 Gen3",
+      "category": "F-Reiza"
+    },
+    {
+      "telemetryName": "Formula V8 Gen3 - High Downforce",
+      "name": "Formula V8 Gen3 - High Downforce",
+      "category": "F-Reiza_HD"
+    },
+    {
+      "telemetryName": "Formula V8 Gen3 - Low Downforce",
+      "name": "Formula V8 Gen3 - Low Downforce",
+      "category": "F-Reiza_LD"
+    },
+    {
+      "telemetryName": "Formula Vee Gen1",
+      "name": "Formula Vee Gen1",
+      "category": "F-Vee"
+    },
+    {
+      "telemetryName": "Formula Vee Gen1 + Fin",
+      "name": "Formula Vee Gen1 + Fin",
+      "category": "F-Vee"
+    },
+    {
+      "telemetryName": "Formula Vee Gen2",
+      "name": "Formula Vee Gen2",
+      "category": "F-Vee_Gen2"
+    },
+    {
+      "telemetryName": "Formula Vintage Gen2 Model3",
+      "name": "Formula Vintage Gen2 Model3",
+      "category": "F-Vintage_Gen2"
+    },
+    {
+      "telemetryName": "Formula Vintage Gen2 Model4",
+      "name": "Formula Vintage Gen2 Model4",
+      "category": "F-Vintage_Gen2"
+    },
+    {
+      "telemetryName": "Gillet Vertigo Streiff",
+      "name": "Gillet Vertigo Streiff",
+      "category": "GTR_04"
+    },
+    {
+      "telemetryName": "Gillet Vertigo Streiff - Low Downforce",
+      "name": "Gillet Vertigo Streiff - Low Downforce",
+      "category": "GTR_04_LD"
+    },
+    {
+      "telemetryName": "Ginetta LMP3",
+      "name": "Ginetta LMP3",
+      "category": "LMP3"
+    },
+    {
+      "telemetryName": "Honda NSX GT3",
+      "name": "Honda NSX GT3",
+      "category": "GT3_Bath12h"
+    },
+    {
+      "telemetryName": "Kart Cross",
+      "name": "Kart Cross",
+      "category": "Kartcross"
+    },
+    {
+      "telemetryName": "Kart SC",
+      "name": "Kart SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Kart physics test",
+      "name": "Kart physics test",
+      "category": "Kart1"
+    },
+    {
+      "telemetryName": "Lamborghini Diablo GTR",
+      "name": "Lamborghini Diablo GTR",
+      "category": "GTO"
+    },
+    {
+      "telemetryName": "Lamborghini Diablo SV-R",
+      "name": "Lamborghini Diablo SV-R",
+      "category": "ST96"
+    },
+    {
+      "telemetryName": "Lamborghini Huracan GT3",
+      "name": "Lamborghini Huracan GT3",
+      "category": "GT3_Blancpain"
+    },
+    {
+      "telemetryName": "Lamborghini Huracan GT3 EVO2",
+      "name": "Lamborghini Huracan GT3 EVO2",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+      "name": "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+      "category": "GT3_Gen2_LD"
+    },
+    {
+      "telemetryName": "Lamborghini Huracan Super Trofeo EVO2",
+      "name": "Lamborghini Huracan Super Trofeo EVO2",
+      "category": "Super Trofeo"
+    },
+    {
+      "telemetryName": "Lamborghini Huracan Super Trofeo EVO2 - Low Downforce",
+      "name": "Lamborghini Huracan Super Trofeo EVO2 - Low Downforce",
+      "category": "Super Trofeo_LD"
+    },
+    {
+      "telemetryName": "Lamborghini Miura SV",
+      "name": "Lamborghini Miura SV",
+      "category": "TC60S"
+    },
+    {
+      "telemetryName": "Lamborghini Murcielago R-GT",
+      "name": "Lamborghini Murcielago R-GT",
+      "category": "GT1_05"
+    },
+    {
+      "telemetryName": "Lamborghini Murcielago R-GT - Low Downforce",
+      "name": "Lamborghini Murcielago R-GT - Low Downforce",
+      "category": "GT1_05_LD"
+    },
+    {
+      "telemetryName": "Lamborghini Revuelto",
+      "name": "Lamborghini Revuelto",
+      "category": "Hypercars"
+    },
+    {
+      "telemetryName": "Lamborghini SC63",
+      "name": "Lamborghini SC63",
+      "category": "LMDh"
+    },
+    {
+      "telemetryName": "Lamborghini SC63 - Low Downforce",
+      "name": "Lamborghini SC63 - Low Downforce",
+      "category": "LMDh_LD"
+    },
+    {
+      "telemetryName": "Lamborghini Veneno Roadster",
+      "name": "Lamborghini Veneno Roadster",
+      "category": "Hypercars"
+    },
+    {
+      "telemetryName": "LamborghiniHuracanGT3",
+      "name": "LamborghiniHuracanGT3",
+      "category": "GT3N"
+    },
+    {
+      "telemetryName": "Lancia Beta Montecarlo",
+      "name": "Lancia Beta Montecarlo",
+      "category": "Group 5"
+    },
+    {
+      "telemetryName": "Lancia Beta Montecarlo - Low Downforce",
+      "name": "Lancia Beta Montecarlo - Low Downforce",
+      "category": "Group_5_LD"
+    },
+    {
+      "telemetryName": "Ligier JS P217",
+      "name": "Ligier JS P217",
+      "category": "LMP2"
+    },
+    {
+      "telemetryName": "Ligier JS P217 - Low Downforce",
+      "name": "Ligier JS P217 - Low Downforce",
+      "category": "LMP2_Gen1_LD"
+    },
+    {
+      "telemetryName": "Ligier JS P4",
+      "name": "Ligier JS P4",
+      "category": "LES_2025"
+    },
+    {
+      "telemetryName": "Ligier JS2 R",
+      "name": "Ligier JS2 R",
+      "category": "LES_2025"
+    },
+    {
+      "telemetryName": "Lister Storm GTM",
+      "name": "Lister Storm GTM",
+      "category": "GT1_05"
+    },
+    {
+      "telemetryName": "Lister Storm GTM - Low Downforce",
+      "name": "Lister Storm GTM - Low Downforce",
+      "category": "GT1_05_LD"
+    },
+    {
+      "telemetryName": "Lola B05/40 Turbo",
+      "name": "Lola B05/40 Turbo",
+      "category": "LMP2_05"
+    },
+    {
+      "telemetryName": "Lola B05/40 Turbo - Low Downforce",
+      "name": "Lola B05/40 Turbo - Low Downforce",
+      "category": "LMP2_05_LD"
+    },
+    {
+      "telemetryName": "Lola B05/40 V8",
+      "name": "Lola B05/40 V8",
+      "category": "LMP2_05"
+    },
+    {
+      "telemetryName": "Lola B05/40 V8 - Low Downforce",
+      "name": "Lola B05/40 V8 - Low Downforce",
+      "category": "LMP2_05_LD"
+    },
+    {
+      "telemetryName": "Lola B2K00 Ford-Cosworth",
+      "name": "Lola B2K00 Ford-Cosworth",
+      "category": "F-USA_Gen3"
+    },
+    {
+      "telemetryName": "Lola B2K00 Ford-Cosworth - High Downforce",
+      "name": "Lola B2K00 Ford-Cosworth - High Downforce",
+      "category": "F-USA_Gen3_HD"
+    },
+    {
+      "telemetryName": "Lola B2K00 Ford-Cosworth - Short Oval",
+      "name": "Lola B2K00 Ford-Cosworth - Short Oval",
+      "category": "F-USA_Gen3_SO"
+    },
+    {
+      "telemetryName": "Lola B2K00 Ford-Cosworth - Speedway",
+      "name": "Lola B2K00 Ford-Cosworth - Speedway",
+      "category": "F-USA_Gen3_SW"
+    },
+    {
+      "telemetryName": "Lola B2K00 Ford-Cosworth - Superspeedway",
+      "name": "Lola B2K00 Ford-Cosworth - Superspeedway",
+      "category": "F-USA_Gen3_SS"
+    },
+    {
+      "telemetryName": "Lola B2K00 Mercedes-Benz",
+      "name": "Lola B2K00 Mercedes-Benz",
+      "category": "F-USA_Gen3"
+    },
+    {
+      "telemetryName": "Lola B2K00 Mercedes-Benz - High Downforce",
+      "name": "Lola B2K00 Mercedes-Benz - High Downforce",
+      "category": "F-USA_Gen3_HD"
+    },
+    {
+      "telemetryName": "Lola B2K00 Mercedes-Benz - Short Oval",
+      "name": "Lola B2K00 Mercedes-Benz - Short Oval",
+      "category": "F-USA_Gen3_SO"
+    },
+    {
+      "telemetryName": "Lola B2K00 Mercedes-Benz - Speedway",
+      "name": "Lola B2K00 Mercedes-Benz - Speedway",
+      "category": "F-USA_Gen3_SW"
+    },
+    {
+      "telemetryName": "Lola B2K00 Mercedes-Benz - Superspeedway",
+      "name": "Lola B2K00 Mercedes-Benz - Superspeedway",
+      "category": "F-USA_Gen3_SS"
+    },
+    {
+      "telemetryName": "Lola B2K00 Toyota",
+      "name": "Lola B2K00 Toyota",
+      "category": "F-USA_Gen3"
+    },
+    {
+      "telemetryName": "Lola B2K00 Toyota - High Downforce",
+      "name": "Lola B2K00 Toyota - High Downforce",
+      "category": "F-USA_Gen3_HD"
+    },
+    {
+      "telemetryName": "Lola B2K00 Toyota - Short Oval",
+      "name": "Lola B2K00 Toyota - Short Oval",
+      "category": "F-USA_Gen3_SO"
+    },
+    {
+      "telemetryName": "Lola B2K00 Toyota - Speedway",
+      "name": "Lola B2K00 Toyota - Speedway",
+      "category": "F-USA_Gen3_SW"
+    },
+    {
+      "telemetryName": "Lola B2K00 Toyota - Superspeedway",
+      "name": "Lola B2K00 Toyota - Superspeedway",
+      "category": "F-USA_Gen3_SS"
+    },
+    {
+      "telemetryName": "Lola T95/00 Ford-Cosworth",
+      "name": "Lola T95/00 Ford-Cosworth",
+      "category": "F-USA_Gen1"
+    },
+    {
+      "telemetryName": "Lola T95/00 Ford-Cosworth - High Downforce",
+      "name": "Lola T95/00 Ford-Cosworth - High Downforce",
+      "category": "F-USA_Gen1_HD"
+    },
+    {
+      "telemetryName": "Lola T95/00 Ford-Cosworth - Short Oval",
+      "name": "Lola T95/00 Ford-Cosworth - Short Oval",
+      "category": "F-USA_Gen1_SO"
+    },
+    {
+      "telemetryName": "Lola T95/00 Ford-Cosworth - Speedway",
+      "name": "Lola T95/00 Ford-Cosworth - Speedway",
+      "category": "F-USA_Gen1_SW"
+    },
+    {
+      "telemetryName": "Lola T95/00 Mercedes-Benz",
+      "name": "Lola T95/00 Mercedes-Benz",
+      "category": "F-USA_Gen1"
+    },
+    {
+      "telemetryName": "Lola T95/00 Mercedes-Benz - High Downforce",
+      "name": "Lola T95/00 Mercedes-Benz - High Downforce",
+      "category": "F-USA_Gen1_HD"
+    },
+    {
+      "telemetryName": "Lola T95/00 Mercedes-Benz - Short Oval",
+      "name": "Lola T95/00 Mercedes-Benz - Short Oval",
+      "category": "F-USA_Gen1_SO"
+    },
+    {
+      "telemetryName": "Lola T95/00 Mercedes-Benz - Speedway",
+      "name": "Lola T95/00 Mercedes-Benz - Speedway",
+      "category": "F-USA_Gen1_SW"
+    },
+    {
+      "telemetryName": "Lola T98/00 Ford-Cosworth",
+      "name": "Lola T98/00 Ford-Cosworth",
+      "category": "F-USA_Gen2"
+    },
+    {
+      "telemetryName": "Lola T98/00 Ford-Cosworth - High Downforce",
+      "name": "Lola T98/00 Ford-Cosworth - High Downforce",
+      "category": "F-USA_Gen2_HD"
+    },
+    {
+      "telemetryName": "Lola T98/00 Ford-Cosworth - Short Oval",
+      "name": "Lola T98/00 Ford-Cosworth - Short Oval",
+      "category": "F-USA_Gen2_SO"
+    },
+    {
+      "telemetryName": "Lola T98/00 Ford-Cosworth - Speedway",
+      "name": "Lola T98/00 Ford-Cosworth - Speedway",
+      "category": "F-USA_Gen2_SW"
+    },
+    {
+      "telemetryName": "Lola T98/00 Ford-Cosworth - Superspeedway",
+      "name": "Lola T98/00 Ford-Cosworth - Superspeedway",
+      "category": "F-USA_Gen2_SS"
+    },
+    {
+      "telemetryName": "MINI Countryman R60 RX",
+      "name": "MINI Countryman R60 RX",
+      "category": "RX"
+    },
+    {
+      "telemetryName": "Maserati GT2 Stradale",
+      "name": "Maserati GT2 Stradale",
+      "category": "Supercars"
+    },
+    {
+      "telemetryName": "Maserati GranSport Trofeo",
+      "name": "Maserati GranSport Trofeo",
+      "category": "Trofeo_2005"
+    },
+    {
+      "telemetryName": "Maserati MC12 GT1",
+      "name": "Maserati MC12 GT1",
+      "category": "GT1_05"
+    },
+    {
+      "telemetryName": "Maserati MC12 GT1 - Low Downforce",
+      "name": "Maserati MC12 GT1 - Low Downforce",
+      "category": "GT1_05_LD"
+    },
+    {
+      "telemetryName": "Maserati Tipo61",
+      "name": "Maserati Tipo61",
+      "category": "TC60S2"
+    },
+    {
+      "telemetryName": "McLaren 650S GT3",
+      "name": "McLaren 650S GT3",
+      "category": "GT3_Blancpain"
+    },
+    {
+      "telemetryName": "McLaren 720S GT3 Evo",
+      "name": "McLaren 720S GT3 Evo",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "McLaren 720S GT3 Evo - Low Downforce",
+      "name": "McLaren 720S GT3 Evo - Low Downforce",
+      "category": "GT3_Gen2_LD"
+    },
+    {
+      "telemetryName": "McLaren Cosworth MP4/1C - High Downforce",
+      "name": "McLaren Cosworth MP4/1C - High Downforce",
+      "category": "F-Retro_Gen3_HD"
+    },
+    {
+      "telemetryName": "McLaren Cosworth MP4/8",
+      "name": "McLaren Cosworth MP4/8",
+      "category": "F-Hitech_Gen2"
+    },
+    {
+      "telemetryName": "McLaren Cosworth MP4/8 - High Downforce",
+      "name": "McLaren Cosworth MP4/8 - High Downforce",
+      "category": "F-Hitech_Gen2_HD"
+    },
+    {
+      "telemetryName": "McLaren Cosworth MP4/8 - Low Downforce",
+      "name": "McLaren Cosworth MP4/8 - Low Downforce",
+      "category": "F-Hitech_Gen2_LD"
+    },
+    {
+      "telemetryName": "McLaren F1 GTR - Low Downforce",
+      "name": "McLaren F1 GTR - Low Downforce",
+      "category": "GT1_LD"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/4",
+      "name": "McLaren Honda MP4/4",
+      "category": "F-Classic_Gen2"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/4 - High Downforce",
+      "name": "McLaren Honda MP4/4 - High Downforce",
+      "category": "F-Classic_Gen2_HD"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/4 - Low Downforce",
+      "name": "McLaren Honda MP4/4 - Low Downforce",
+      "category": "F-Classic_Gen2_LD"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/5",
+      "name": "McLaren Honda MP4/5",
+      "category": "Mclaren_MP46"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/5B",
+      "name": "McLaren Honda MP4/5B",
+      "category": "F-Classic_Gen3"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/5B - High Downforce",
+      "name": "McLaren Honda MP4/5B - High Downforce",
+      "category": "F-Classic_Gen3_HD"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/5B - Low Downforce",
+      "name": "McLaren Honda MP4/5B - Low Downforce",
+      "category": "F-Classic_Gen3_LD"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/6",
+      "name": "McLaren Honda MP4/6",
+      "category": "F-Classic_Gen4"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/6 - High Downforce",
+      "name": "McLaren Honda MP4/6 - High Downforce",
+      "category": "F-Classic_Gen4_HD"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/6 - Low Downforce",
+      "name": "McLaren Honda MP4/6 - Low Downforce",
+      "category": "F-Classic_Gen4_LD"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/7A",
+      "name": "McLaren Honda MP4/7A",
+      "category": "F-Hitech_Gen1"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/7A - High Downforce",
+      "name": "McLaren Honda MP4/7A - High Downforce",
+      "category": "F-Hitech_Gen1_HD"
+    },
+    {
+      "telemetryName": "McLaren Honda MP4/7A - Low Downforce",
+      "name": "McLaren Honda MP4/7A - Low Downforce",
+      "category": "F-Hitech_Gen1_LD"
+    },
+    {
+      "telemetryName": "McLaren M8B",
+      "name": "McLaren M8B",
+      "category": "Group 7"
+    },
+    {
+      "telemetryName": "McLaren MP4/16",
+      "name": "McLaren MP4/16",
+      "category": "F-V10_Gen2"
+    },
+    {
+      "telemetryName": "McLaren MP4/16 - High Downforce",
+      "name": "McLaren MP4/16 - High Downforce",
+      "category": "F-V10_Gen2_HD"
+    },
+    {
+      "telemetryName": "McLaren MP4/16 - Low Downforce",
+      "name": "McLaren MP4/16 - Low Downforce",
+      "category": "F-V10_Gen2_LD"
+    },
+    {
+      "telemetryName": "McLaren MP4/20",
+      "name": "McLaren MP4/20",
+      "category": "F-V10_Gen3"
+    },
+    {
+      "telemetryName": "McLaren MP4/20 - High Downforce",
+      "name": "McLaren MP4/20 - High Downforce",
+      "category": "F-V10_Gen3_HD"
+    },
+    {
+      "telemetryName": "McLaren MP4/20 - Low Downforce",
+      "name": "McLaren MP4/20 - Low Downforce",
+      "category": "F-V10_Gen3_LD"
+    },
+    {
+      "telemetryName": "McLaren MP4/23",
+      "name": "McLaren MP4/23",
+      "category": "F-V8_Gen2"
+    },
+    {
+      "telemetryName": "McLaren MP4/23 - High Downforce",
+      "name": "McLaren MP4/23 - High Downforce",
+      "category": "F-V8_Gen2_HD"
+    },
+    {
+      "telemetryName": "McLaren MP4/23 - Low Downforce",
+      "name": "McLaren MP4/23 - Low Downforce",
+      "category": "F-V8_Gen2_LD"
+    },
+    {
+      "telemetryName": "McLaren Mercedes MP4/12 - High Downforce",
+      "name": "McLaren Mercedes MP4/12 - High Downforce",
+      "category": "F-V10_Gen1_HD"
+    },
+    {
+      "telemetryName": "McLaren Mercedes MP4/12 - Low Downforce",
+      "name": "McLaren Mercedes MP4/12 - Low Downforce",
+      "category": "F-V10_Gen1_LD"
+    },
+    {
+      "telemetryName": "McLaren Senna",
+      "name": "McLaren Senna",
+      "category": "Hypercars"
+    },
+    {
+      "telemetryName": "Mercedes-AMG GT3 Evo",
+      "name": "Mercedes-AMG GT3 Evo",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "Mercedes-AMG GT3 Evo - Low Downforce",
+      "name": "Mercedes-AMG GT3 Evo - Low Downforce",
+      "category": "GT3_Gen2_LD"
+    },
+    {
+      "telemetryName": "Mercedes-AMG SC",
+      "name": "Mercedes-AMG SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Mercedes-Benz 190E 2.5-16 Evo II DTM",
+      "name": "Mercedes-Benz 190E 2.5-16 Evo II DTM",
+      "category": "Group A"
+    },
+    {
+      "telemetryName": "Mercedes-Benz CLK LM - Low Downforce",
+      "name": "Mercedes-Benz CLK LM - Low Downforce",
+      "category": "GT1_LD"
+    },
+    {
+      "telemetryName": "Milano GT36",
+      "name": "Milano GT36",
+      "category": "GT2_05"
+    },
+    {
+      "telemetryName": "Milano GT36 - Low Downforce",
+      "name": "Milano GT36 - Low Downforce",
+      "category": "GT2_05_LD"
+    },
+    {
+      "telemetryName": "Milano GT55",
+      "name": "Milano GT55",
+      "category": "GT1_05"
+    },
+    {
+      "telemetryName": "Milano GT55 - Low Downforce",
+      "name": "Milano GT55 - Low Downforce",
+      "category": "GT1_05_LD"
+    },
+    {
+      "telemetryName": "Mitsubishi Lancer Evo10 RX",
+      "name": "Mitsubishi Lancer Evo10 RX",
+      "category": "RX"
+    },
+    {
+      "telemetryName": "Nissan GT-R Nismo GT3 (R35)",
+      "name": "Nissan GT-R Nismo GT3 (R35)",
+      "category": "GT3_Bath12h"
+    },
+    {
+      "telemetryName": "Nissan R390 GT1 - Low Downforce",
+      "name": "Nissan R390 GT1 - Low Downforce",
+      "category": "GT1_LD"
+    },
+    {
+      "telemetryName": "Nissan R89C - Low Downforce",
+      "name": "Nissan R89C - Low Downforce",
+      "category": "Group C_LD"
+    },
+    {
+      "telemetryName": "Nissan Skyline GT-R (BNR32) Group A",
+      "name": "Nissan Skyline GT-R (BNR32) Group A",
+      "category": "Group A mod"
+    },
+    {
+      "telemetryName": "Oreca 07",
+      "name": "Oreca 07",
+      "category": "LMP2"
+    },
+    {
+      "telemetryName": "Oreca 07 - Low Downforce",
+      "name": "Oreca 07 - Low Downforce",
+      "category": "LMP2_Gen1_LD"
+    },
+    {
+      "telemetryName": "Panoz Esperante GTLM",
+      "name": "Panoz Esperante GTLM",
+      "category": "GT2_05"
+    },
+    {
+      "telemetryName": "Panoz Esperante GTLM - Low Downforce",
+      "name": "Panoz Esperante GTLM - Low Downforce",
+      "category": "GT2_05_LD"
+    },
+    {
+      "telemetryName": "Panoz Esperante GTR-1",
+      "name": "Panoz Esperante GTR-1",
+      "category": "GT1"
+    },
+    {
+      "telemetryName": "Panoz Esperante GTR-1 - Low Downforce",
+      "name": "Panoz Esperante GTR-1 - Low Downforce",
+      "category": "GT1_LD"
+    },
+    {
+      "telemetryName": "Porsche 911 GT1-98 - Low Downforce",
+      "name": "Porsche 911 GT1-98 - Low Downforce",
+      "category": "GT1_LD"
+    },
+    {
+      "telemetryName": "Porsche 911 GT3 Cup",
+      "name": "Porsche 911 GT3 Cup",
+      "category": "GTCupN"
+    },
+    {
+      "telemetryName": "Porsche 911 GT3R",
+      "name": "Porsche 911 GT3R",
+      "category": "GT3_Bath12h"
+    },
+    {
+      "telemetryName": "Porsche 911 RSR GTE",
+      "name": "Porsche 911 RSR GTE",
+      "category": "GTE"
+    },
+    {
+      "telemetryName": "Porsche 911 RSR GTE - Low Downforce",
+      "name": "Porsche 911 RSR GTE - Low Downforce",
+      "category": "GTE_LD"
+    },
+    {
+      "telemetryName": "Porsche 911 RSR SC",
+      "name": "Porsche 911 RSR SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Porsche 917K",
+      "name": "Porsche 917K",
+      "category": "Group 7"
+    },
+    {
+      "telemetryName": "Porsche 935 Group5",
+      "name": "Porsche 935 Group5",
+      "category": "Group 5"
+    },
+    {
+      "telemetryName": "Porsche 962C - Low Downforce",
+      "name": "Porsche 962C - Low Downforce",
+      "category": "Group C_LD"
+    },
+    {
+      "telemetryName": "Porsche 963",
+      "name": "Porsche 963",
+      "category": "LMDh"
+    },
+    {
+      "telemetryName": "Porsche 963 - Low Downforce",
+      "name": "Porsche 963 - Low Downforce",
+      "category": "LMDh_LD"
+    },
+    {
+      "telemetryName": "Porsche 992 GT3 R",
+      "name": "Porsche 992 GT3 R",
+      "category": "GT3_Gen2"
+    },
+    {
+      "telemetryName": "Porsche 992 GT3 R - Low Downforce",
+      "name": "Porsche 992 GT3 R - Low Downforce",
+      "category": "GT3_Gen2_LD"
+    },
+    {
+      "telemetryName": "Porsche 996 GT3 RSR",
+      "name": "Porsche 996 GT3 RSR",
+      "category": "GT2_05"
+    },
+    {
+      "telemetryName": "Porsche 996 GT3 RSR - Low Downforce",
+      "name": "Porsche 996 GT3 RSR - Low Downforce",
+      "category": "GT2_05_LD"
+    },
+    {
+      "telemetryName": "Porsche Cayman Safety Car",
+      "name": "Porsche Cayman Safety Car",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Puma GTB SC",
+      "name": "Puma GTB SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Ford-Cosworth",
+      "name": "Reynard 2Ki Ford-Cosworth",
+      "category": "F-USA_Gen3"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Ford-Cosworth - High Downforce",
+      "name": "Reynard 2Ki Ford-Cosworth - High Downforce",
+      "category": "F-USA_Gen3_HD"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Ford-Cosworth - Short Oval",
+      "name": "Reynard 2Ki Ford-Cosworth - Short Oval",
+      "category": "F-USA_Gen3_SO"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Ford-Cosworth - Speedway",
+      "name": "Reynard 2Ki Ford-Cosworth - Speedway",
+      "category": "F-USA_Gen3_SW"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Ford-Cosworth - Superspeedway",
+      "name": "Reynard 2Ki Ford-Cosworth - Superspeedway",
+      "category": "F-USA_Gen3_SS"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Honda",
+      "name": "Reynard 2Ki Honda",
+      "category": "F-USA_Gen3"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Honda - High Downforce",
+      "name": "Reynard 2Ki Honda - High Downforce",
+      "category": "F-USA_Gen3_HD"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Honda - Short Oval",
+      "name": "Reynard 2Ki Honda - Short Oval",
+      "category": "F-USA_Gen3_SO"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Honda - Speedway",
+      "name": "Reynard 2Ki Honda - Speedway",
+      "category": "F-USA_Gen3_SW"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Honda - Superspeedway",
+      "name": "Reynard 2Ki Honda - Superspeedway",
+      "category": "F-USA_Gen3_SS"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Mercedes-Benz",
+      "name": "Reynard 2Ki Mercedes-Benz",
+      "category": "F-USA_Gen3"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Mercedes-Benz - High Downforce",
+      "name": "Reynard 2Ki Mercedes-Benz - High Downforce",
+      "category": "F-USA_Gen3_HD"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Mercedes-Benz - Short Oval",
+      "name": "Reynard 2Ki Mercedes-Benz - Short Oval",
+      "category": "F-USA_Gen3_SO"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Mercedes-Benz - Speedway",
+      "name": "Reynard 2Ki Mercedes-Benz - Speedway",
+      "category": "F-USA_Gen3_SW"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Mercedes-Benz - Superspeedway",
+      "name": "Reynard 2Ki Mercedes-Benz - Superspeedway",
+      "category": "F-USA_Gen3_SS"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Toyota",
+      "name": "Reynard 2Ki Toyota",
+      "category": "F-USA_Gen3"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Toyota - High Downforce",
+      "name": "Reynard 2Ki Toyota - High Downforce",
+      "category": "F-USA_Gen3_HD"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Toyota - Short Oval",
+      "name": "Reynard 2Ki Toyota - Short Oval",
+      "category": "F-USA_Gen3_SO"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Toyota - Speedway",
+      "name": "Reynard 2Ki Toyota - Speedway",
+      "category": "F-USA_Gen3_SW"
+    },
+    {
+      "telemetryName": "Reynard 2Ki Toyota - Superspeedway",
+      "name": "Reynard 2Ki Toyota - Superspeedway",
+      "category": "F-USA_Gen3_SS"
+    },
+    {
+      "telemetryName": "Reynard 95i Ford-Cosworth",
+      "name": "Reynard 95i Ford-Cosworth",
+      "category": "F-USA_Gen1"
+    },
+    {
+      "telemetryName": "Reynard 95i Ford-Cosworth - High Downforce",
+      "name": "Reynard 95i Ford-Cosworth - High Downforce",
+      "category": "F-USA_Gen1_HD"
+    },
+    {
+      "telemetryName": "Reynard 95i Ford-Cosworth - Short Oval",
+      "name": "Reynard 95i Ford-Cosworth - Short Oval",
+      "category": "F-USA_Gen1_SO"
+    },
+    {
+      "telemetryName": "Reynard 95i Ford-Cosworth - Speedway",
+      "name": "Reynard 95i Ford-Cosworth - Speedway",
+      "category": "F-USA_Gen1_SW"
+    },
+    {
+      "telemetryName": "Reynard 95i Honda",
+      "name": "Reynard 95i Honda",
+      "category": "F-USA_Gen1"
+    },
+    {
+      "telemetryName": "Reynard 95i Honda - High Downforce",
+      "name": "Reynard 95i Honda - High Downforce",
+      "category": "F-USA_Gen1_HD"
+    },
+    {
+      "telemetryName": "Reynard 95i Honda - Short Oval",
+      "name": "Reynard 95i Honda - Short Oval",
+      "category": "F-USA_Gen1_SO"
+    },
+    {
+      "telemetryName": "Reynard 95i Honda - Speedway",
+      "name": "Reynard 95i Honda - Speedway",
+      "category": "F-USA_Gen1_SW"
+    },
+    {
+      "telemetryName": "Reynard 95i Mercedes-Benz",
+      "name": "Reynard 95i Mercedes-Benz",
+      "category": "F-USA_Gen1"
+    },
+    {
+      "telemetryName": "Reynard 95i Mercedes-Benz - High Downforce",
+      "name": "Reynard 95i Mercedes-Benz - High Downforce",
+      "category": "F-USA_Gen1_HD"
+    },
+    {
+      "telemetryName": "Reynard 95i Mercedes-Benz - Short Oval",
+      "name": "Reynard 95i Mercedes-Benz - Short Oval",
+      "category": "F-USA_Gen1_SO"
+    },
+    {
+      "telemetryName": "Reynard 95i Mercedes-Benz - Speedway",
+      "name": "Reynard 95i Mercedes-Benz - Speedway",
+      "category": "F-USA_Gen1_SW"
+    },
+    {
+      "telemetryName": "Reynard 98i Ford-Cosworth",
+      "name": "Reynard 98i Ford-Cosworth",
+      "category": "F-USA_Gen2"
+    },
+    {
+      "telemetryName": "Reynard 98i Ford-Cosworth - High Downforce",
+      "name": "Reynard 98i Ford-Cosworth - High Downforce",
+      "category": "F-USA_Gen2_HD"
+    },
+    {
+      "telemetryName": "Reynard 98i Ford-Cosworth - Short Oval",
+      "name": "Reynard 98i Ford-Cosworth - Short Oval",
+      "category": "F-USA_Gen2_SO"
+    },
+    {
+      "telemetryName": "Reynard 98i Ford-Cosworth - Speedway",
+      "name": "Reynard 98i Ford-Cosworth - Speedway",
+      "category": "F-USA_Gen2_SW"
+    },
+    {
+      "telemetryName": "Reynard 98i Ford-Cosworth - Superspeedway",
+      "name": "Reynard 98i Ford-Cosworth - Superspeedway",
+      "category": "F-USA_Gen2_SS"
+    },
+    {
+      "telemetryName": "Reynard 98i Honda",
+      "name": "Reynard 98i Honda",
+      "category": "F-USA_Gen2"
+    },
+    {
+      "telemetryName": "Reynard 98i Honda - High Downforce",
+      "name": "Reynard 98i Honda - High Downforce",
+      "category": "F-USA_Gen2_HD"
+    },
+    {
+      "telemetryName": "Reynard 98i Honda - Short Oval",
+      "name": "Reynard 98i Honda - Short Oval",
+      "category": "F-USA_Gen2_SO"
+    },
+    {
+      "telemetryName": "Reynard 98i Honda - Speedway",
+      "name": "Reynard 98i Honda - Speedway",
+      "category": "F-USA_Gen2_SW"
+    },
+    {
+      "telemetryName": "Reynard 98i Honda - Superspeedway",
+      "name": "Reynard 98i Honda - Superspeedway",
+      "category": "F-USA_Gen2_SS"
+    },
+    {
+      "telemetryName": "Reynard 98i Mercedes-Benz",
+      "name": "Reynard 98i Mercedes-Benz",
+      "category": "F-USA_Gen2"
+    },
+    {
+      "telemetryName": "Reynard 98i Mercedes-Benz - High Downforce",
+      "name": "Reynard 98i Mercedes-Benz - High Downforce",
+      "category": "F-USA_Gen2_HD"
+    },
+    {
+      "telemetryName": "Reynard 98i Mercedes-Benz - Short Oval",
+      "name": "Reynard 98i Mercedes-Benz - Short Oval",
+      "category": "F-USA_Gen2_SO"
+    },
+    {
+      "telemetryName": "Reynard 98i Mercedes-Benz - Speedway",
+      "name": "Reynard 98i Mercedes-Benz - Speedway",
+      "category": "F-USA_Gen2_SW"
+    },
+    {
+      "telemetryName": "Reynard 98i Mercedes-Benz - Superspeedway",
+      "name": "Reynard 98i Mercedes-Benz - Superspeedway",
+      "category": "F-USA_Gen2_SS"
+    },
+    {
+      "telemetryName": "Reynard 98i Toyota",
+      "name": "Reynard 98i Toyota",
+      "category": "F-USA_Gen2"
+    },
+    {
+      "telemetryName": "Reynard 98i Toyota - High Downforce",
+      "name": "Reynard 98i Toyota - High Downforce",
+      "category": "F-USA_Gen2_HD"
+    },
+    {
+      "telemetryName": "Reynard 98i Toyota - Short Oval",
+      "name": "Reynard 98i Toyota - Short Oval",
+      "category": "F-USA_Gen2_SO"
+    },
+    {
+      "telemetryName": "Reynard 98i Toyota - Speedway",
+      "name": "Reynard 98i Toyota - Speedway",
+      "category": "F-USA_Gen2_SW"
+    },
+    {
+      "telemetryName": "Reynard 98i Toyota - Superspeedway",
+      "name": "Reynard 98i Toyota - Superspeedway",
+      "category": "F-USA_Gen2_SS"
+    },
+    {
+      "telemetryName": "Saleen S7-R GT1",
+      "name": "Saleen S7-R GT1",
+      "category": "GT1_05"
+    },
+    {
+      "telemetryName": "Saleen S7-R GT1 - Low Downforce",
+      "name": "Saleen S7-R GT1 - Low Downforce",
+      "category": "GT1_05_LD"
+    },
+    {
+      "telemetryName": "Sauber Mercedes C9 - Low Downforce",
+      "name": "Sauber Mercedes C9 - Low Downforce",
+      "category": "Group C_LD"
+    },
+    {
+      "telemetryName": "Sigma P1",
+      "name": "Sigma P1",
+      "category": "P2"
+    },
+    {
+      "telemetryName": "Spyker C8 Spyder GT2-R",
+      "name": "Spyker C8 Spyder GT2-R",
+      "category": "GT2_05"
+    },
+    {
+      "telemetryName": "Spyker C8 Spyder GT2-R - Low Downforce",
+      "name": "Spyker C8 Spyder GT2-R - Low Downforce",
+      "category": "GT2_05_LD"
+    },
+    {
+      "telemetryName": "Stadium Super Trucks",
+      "name": "Stadium Super Trucks",
+      "category": "SST"
+    },
+    {
+      "telemetryName": "Stock USA Gen1",
+      "name": "Stock USA Gen1",
+      "category": "Stock_USA_Gen1"
+    },
+    {
+      "telemetryName": "Stock USA Gen1 - Short Oval",
+      "name": "Stock USA Gen1 - Short Oval",
+      "category": "Stock_USA_Gen1_SO"
+    },
+    {
+      "telemetryName": "Stock USA Gen1 - Speedway",
+      "name": "Stock USA Gen1 - Speedway",
+      "category": "Stock_USA_Gen1_SW"
+    },
+    {
+      "telemetryName": "Stock USA Gen2",
+      "name": "Stock USA Gen2",
+      "category": "Stock_USA_Gen2"
+    },
+    {
+      "telemetryName": "Stock USA Gen2 - Short Oval",
+      "name": "Stock USA Gen2 - Short Oval",
+      "category": "Stock_USA_Gen2_SO"
+    },
+    {
+      "telemetryName": "Stock USA Gen2 - Speedway",
+      "name": "Stock USA Gen2 - Speedway",
+      "category": "Stock_USA_Gen2_SW"
+    },
+    {
+      "telemetryName": "Stock USA Gen2 - Superspeedway",
+      "name": "Stock USA Gen2 - Superspeedway",
+      "category": "Stock_USA_Gen2_SS"
+    },
+    {
+      "telemetryName": "Stock USA Gen3",
+      "name": "Stock USA Gen3",
+      "category": "Stock_USA_Gen3"
+    },
+    {
+      "telemetryName": "Stock USA Gen3 - Short Oval",
+      "name": "Stock USA Gen3 - Short Oval",
+      "category": "Stock_USA_Gen3_SO"
+    },
+    {
+      "telemetryName": "Stock USA Gen3 - Speedway",
+      "name": "Stock USA Gen3 - Speedway",
+      "category": "Stock_USA_Gen3_SW"
+    },
+    {
+      "telemetryName": "Stock USA Gen3 - Superspeedway",
+      "name": "Stock USA Gen3 - Superspeedway",
+      "category": "Stock_USA_Gen3_SS"
+    },
+    {
+      "telemetryName": "Stock USA Gen3 LM",
+      "name": "Stock USA Gen3 LM",
+      "category": "Stock_USA_Gen3_LM"
+    },
+    {
+      "telemetryName": "Super Trophy Trucks",
+      "name": "Super Trophy Trucks",
+      "category": "STT"
+    },
+    {
+      "telemetryName": "Super Trophy Trucks SC",
+      "name": "Super Trophy Trucks SC",
+      "category": "SafetyCar"
+    },
+    {
+      "telemetryName": "Swift 009c Ford-Cosworth",
+      "name": "Swift 009c Ford-Cosworth",
+      "category": "F-USA_Gen2"
+    },
+    {
+      "telemetryName": "Swift 009c Ford-Cosworth - High Downforce",
+      "name": "Swift 009c Ford-Cosworth - High Downforce",
+      "category": "F-USA_Gen2_HD"
+    },
+    {
+      "telemetryName": "Swift 009c Ford-Cosworth - Short Oval",
+      "name": "Swift 009c Ford-Cosworth - Short Oval",
+      "category": "F-USA_Gen2_SO"
+    },
+    {
+      "telemetryName": "Swift 009c Ford-Cosworth - Speedway",
+      "name": "Swift 009c Ford-Cosworth - Speedway",
+      "category": "F-USA_Gen2_SW"
+    },
+    {
+      "telemetryName": "Swift 009c Ford-Cosworth - Superspeedway",
+      "name": "Swift 009c Ford-Cosworth - Superspeedway",
+      "category": "F-USA_Gen2_SS"
+    },
+    {
+      "telemetryName": "TVR Tuscan T400R GT2",
+      "name": "TVR Tuscan T400R GT2",
+      "category": "GT2_05"
+    },
+    {
+      "telemetryName": "TVR Tuscan T400R GT2 - Low Downforce",
+      "name": "TVR Tuscan T400R GT2 - Low Downforce",
+      "category": "GT2_05_LD"
+    },
+    {
+      "telemetryName": "Volkswagen Polo RX",
+      "name": "Volkswagen Polo RX",
+      "category": "RX"
+    }
+  ]
+}

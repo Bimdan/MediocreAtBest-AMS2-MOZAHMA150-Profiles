@@ -1,0 +1,18 @@
+# Local development artefacts
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+# Never commit user-created backups
+MediocreAtBest Profile Backups/
+RestoreSafety-*/
+
+# Never distribute installed databases or SQLite sidecars
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+* Profile Backups/

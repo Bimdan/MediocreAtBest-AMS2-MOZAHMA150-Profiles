@@ -1,0 +1,96 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 38,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 22,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 25,
+      "Sensitivity": 66,
+      "Strength": 6,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 24,
+      "Sensitivity": 70,
+      "Strength": 23,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 30,
+      "Sensitivity": 50,
+      "Strength": 19,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 20,
+      "Sensitivity": 65,
+      "Strength": 19,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 32,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "46352eb5-3420-5659-b87f-a5ae215b1f37",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Group C / Classic Le Mans",
+  "tags": {
+    "carModels": [
+      "Chevrolet Corvette GTP",
+      "Chevrolet Corvette GTP - Low Downforce",
+      "Nissan R89C",
+      "Nissan R89C - Low Downforce",
+      "Porsche 962C",
+      "Porsche 962C - Low Downforce",
+      "Sauber Mercedes C9",
+      "Sauber Mercedes C9 - Low Downforce"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

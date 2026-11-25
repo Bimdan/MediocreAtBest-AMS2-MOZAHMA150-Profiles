@@ -1,0 +1,98 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 33,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 21,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 23,
+      "Sensitivity": 66,
+      "Strength": 6,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 23,
+      "Sensitivity": 70,
+      "Strength": 23,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 30,
+      "Sensitivity": 50,
+      "Strength": 18,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 20,
+      "Sensitivity": 65,
+      "Strength": 19,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 35,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "e673fcf5-b7bd-52fc-8c63-8249e5ccd6a2",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Carrera Cup / Super Trofeo / GT Cup",
+  "tags": {
+    "carModels": [
+      "Ginetta G55 GT4 Supercup",
+      "Lamborghini Diablo GTR",
+      "Lamborghini Diablo SV-R",
+      "Lamborghini Huracan Super Trofeo EVO2",
+      "Lamborghini Huracan Super Trofeo EVO2 - Low Downforce",
+      "Ligier JS2 R",
+      "Maserati GranSport Trofeo",
+      "Porsche 911 GT3 Cup",
+      "Porsche 911 GT3 Cup 3.8",
+      "Porsche 911 GT3 Cup 4.0"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

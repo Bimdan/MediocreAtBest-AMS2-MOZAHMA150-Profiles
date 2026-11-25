@@ -1,0 +1,103 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 31,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 22,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 28,
+      "Sensitivity": 66,
+      "Strength": 7,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 27,
+      "Sensitivity": 70,
+      "Strength": 27,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 32,
+      "Sensitivity": 50,
+      "Strength": 16,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 25,
+      "Sensitivity": 65,
+      "Strength": 27,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 34,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "d3a1da47-3fd6-5eab-9362-83b0f5a8c636",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Copa / GT5 / Mini / Lancer / Club Cups",
+  "tags": {
+    "carModels": [
+      "ARC Camaro",
+      "Copa Fusca",
+      "Copa Montana",
+      "Copa Uno",
+      "Ginetta G40",
+      "Ginetta G40 Cup",
+      "MINI Cooper JCW",
+      "Mitsubishi Lancer R",
+      "Mitsubishi Lancer RS",
+      "Puma P052",
+      "Sprint Race",
+      "Volkswagen Polo",
+      "Volkswagen Polo GTS",
+      "Volkswagen Virtus",
+      "Volkswagen Virtus GTS"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

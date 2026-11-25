@@ -1,0 +1,114 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 11,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 40,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 24,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 25,
+      "Sensitivity": 66,
+      "Strength": 5,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 22,
+      "Sensitivity": 70,
+      "Strength": 22,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 30,
+      "Sensitivity": 50,
+      "Strength": 20,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 18,
+      "Sensitivity": 65,
+      "Strength": 17,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 36,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "db2ea963-7d54-51ac-bff9-81bd1ddcafed",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Formula Retro Gen 3 / Formula Classic Gen 1-2 / F1 1983-88",
+  "tags": {
+    "carModels": [
+      "Formula Classic Gen1 Model1",
+      "Formula Classic Gen1 Model1 - High Downforce",
+      "Formula Classic Gen1 Model2",
+      "Formula Classic Gen1 Model2 - High Downforce",
+      "Formula Classic Gen1 Model3",
+      "Formula Classic Gen1 Model3 - High Downforce",
+      "Formula Classic Gen2 Model1",
+      "Formula Classic Gen2 Model1 - High Downforce",
+      "Formula Classic Gen2 Model1 - Low Downforce",
+      "Formula Classic Gen2 Model2",
+      "Formula Classic Gen2 Model2 - High Downforce",
+      "Formula Classic Gen2 Model2 - Low Downforce",
+      "Formula Classic Gen2 Model3",
+      "Formula Classic Gen2 Model3 - High Downforce",
+      "Formula Classic Gen2 Model3 - Low Downforce",
+      "Formula Retro Gen3 DFY",
+      "Formula Retro Gen3 DFY - High Downforce",
+      "Formula Retro Gen3 Model2",
+      "Formula Retro Gen3 Model2 - High Downforce",
+      "Formula Retro Gen3 Turbo",
+      "Formula Retro Gen3 Turbo - High Downforce",
+      "McLaren Cosworth MP4/1C",
+      "McLaren Cosworth MP4/1C - High Downforce",
+      "McLaren Honda MP4/4",
+      "McLaren Honda MP4/4 - High Downforce",
+      "McLaren Honda MP4/4 - Low Downforce"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

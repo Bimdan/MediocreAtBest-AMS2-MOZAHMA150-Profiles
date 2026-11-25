@@ -1,0 +1,101 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 12,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 39,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 24,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 30,
+      "Sensitivity": 66,
+      "Strength": 6,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 24,
+      "Sensitivity": 70,
+      "Strength": 25,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 30,
+      "Sensitivity": 50,
+      "Strength": 19,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 23,
+      "Sensitivity": 65,
+      "Strength": 23,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 35,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "24a7e941-41d0-514b-a51f-f9115d32195f",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Stock Car Brasil / Super V8",
+  "tags": {
+    "carModels": [
+      "Chevrolet Cruze Stock Car 2019",
+      "Chevrolet Cruze Stock Car 2020",
+      "Chevrolet Cruze Stock Car 2021",
+      "Chevrolet Cruze Stock Car 2022",
+      "Chevrolet Cruze Stock Car 2023",
+      "Chevrolet Cruze Stock Car 2024",
+      "Chevrolet Omega Stock Car 1999",
+      "Super V8",
+      "Toyota Corolla Stock Car 2020",
+      "Toyota Corolla Stock Car 2021",
+      "Toyota Corolla Stock Car 2022",
+      "Toyota Corolla Stock Car 2023",
+      "Toyota Corolla Stock Car 2024"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

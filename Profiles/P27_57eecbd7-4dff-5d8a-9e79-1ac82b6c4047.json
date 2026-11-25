@@ -1,0 +1,97 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 13,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 39,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 24,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 27,
+      "Sensitivity": 66,
+      "Strength": 7,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 27,
+      "Sensitivity": 70,
+      "Strength": 27,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 33,
+      "Sensitivity": 50,
+      "Strength": 18,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 25,
+      "Sensitivity": 65,
+      "Strength": 27,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": false
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 36,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "57eecbd7-4dff-5d8a-9e79-1ac82b6c4047",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - Group 5 / Vintage Touring 70s (TC70S) / Procar",
+  "tags": {
+    "carModels": [
+      "BMW 320",
+      "BMW M1 Procar",
+      "Chevrolet Corvette C3.R",
+      "Chevrolet Corvette C3.R Convertible",
+      "Ford Capri",
+      "Lancia Beta Montecarlo",
+      "Lancia Beta Montecarlo - Low Downforce",
+      "Porsche 911 RSR 1974",
+      "Porsche 935 Group5"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}

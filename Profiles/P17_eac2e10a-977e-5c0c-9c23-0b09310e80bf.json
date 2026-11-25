@@ -1,0 +1,106 @@
+{
+  "deviceParams": {
+    "ABSTrigger": {
+      "Frequency": 50,
+      "Strength": 40,
+      "enabled": false
+    },
+    "AccToPitch": {
+      "Flatness": 20,
+      "Strength": 11,
+      "enabled": true
+    },
+    "AccToRoll": {
+      "Flatness": 20,
+      "Strength": 11,
+      "enabled": true
+    },
+    "EngineVibration": {
+      "Frequency": 160,
+      "Strength": 32,
+      "enabled": true
+    },
+    "GearShift": {
+      "Duration": 100,
+      "GearShiftFilterStrength": 100,
+      "GearShiftFilterTime": 800,
+      "GearShiftIsolation": true,
+      "GearShiftMasterEnabled": true,
+      "Strength": 19,
+      "enabled": true
+    },
+    "Heave": {
+      "Flatness": 23,
+      "Sensitivity": 66,
+      "Strength": 5,
+      "enabled": true
+    },
+    "Pitch": {
+      "AccWeight": 25,
+      "Flatness": 22,
+      "Sensitivity": 70,
+      "Strength": 22,
+      "enabled": true
+    },
+    "RoadDetail": {
+      "Flatness": 24,
+      "Sensitivity": 50,
+      "Strength": 20,
+      "enabled": true
+    },
+    "Roll": {
+      "AccWeight": 35,
+      "Flatness": 17,
+      "Sensitivity": 65,
+      "Strength": 15,
+      "enabled": true
+    },
+    "TractionControl": {
+      "Frequency": 30,
+      "Strength": 40,
+      "enabled": true
+    },
+    "WheelSlip": {
+      "Frequency": 75,
+      "Strength": 30,
+      "enabled": true
+    },
+    "layout": "F2B2",
+    "platform": {
+      "maxMotionAngle": 35,
+      "tactileFeedbackValue": 35
+    }
+  },
+  "id": "eac2e10a-977e-5c0c-9c23-0b09310e80bf",
+  "lastModified": "2026-11-25T21:30:00",
+  "name": "AMS2 - MediocreAtBest - LMP2 / P1 / Prototypes",
+  "tags": {
+    "carModels": [
+      "Ginetta G58",
+      "Ginetta G58 Gen2",
+      "Ligier JS P217",
+      "Ligier JS P217 - Low Downforce",
+      "Lola B05/40 Turbo",
+      "Lola B05/40 Turbo - Low Downforce",
+      "Lola B05/40 V8",
+      "Lola B05/40 V8 - Low Downforce",
+      "MetalMoro AJR Chevrolet",
+      "MetalMoro AJR Gen2 Chevrolet",
+      "MetalMoro AJR Gen2 Honda",
+      "MetalMoro AJR Gen2 Nissan",
+      "MetalMoro AJR Honda",
+      "MetalMoro AJR Judd",
+      "MetalMoro AJR Nissan",
+      "Oreca 07",
+      "Oreca 07 - Low Downforce",
+      "Sigma P1 G5"
+    ],
+    "deviceType": "GMotion",
+    "devices": [
+      "G01"
+    ],
+    "gameId": 15,
+    "isOfficial": false
+  },
+  "version": 3
+}
